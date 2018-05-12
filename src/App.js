@@ -7,6 +7,8 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
+        <div class="header" id="topStrip" >
+        </div>
           <img src={logo} className="App-logo" alt="logo" />
           <h1 className="App-title">Welcome to Rokshop! We use React!</h1>
         </header>
