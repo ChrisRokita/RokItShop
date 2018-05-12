@@ -13,7 +13,7 @@ class App extends Component {
           <h1 className="App-title">Welcome to Rokshop! We use React!</h1>
         </header>
         <p className="App-intro">
-          Glad to have you. Please take a look around and see if you like what our web management services have to offer
+          Glad to have you. Please take a look around and see if you like what our web management services have to offer.
         </p>
       </div>
     );
